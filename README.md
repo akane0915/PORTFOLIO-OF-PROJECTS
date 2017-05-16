@@ -10,6 +10,10 @@ This README is intended to direct viewers of my Github profile to the repositori
 
 ## My Top Repositories
 
+| Project |  View Project  |  View Respository  |  Description  |  Tools Used  |
+|----------|:--------:|:--------:|
+|Baby Got Track Shoe Store| https://powerful-oasis-47226.herokuapp.com/ | https://github.com/akane0915/shoe-store | A web application for a shoe company to to track its shoe brands and the stores at which each brand is sold.  Living in a city that is home to Nike and Adidas, this application seems like a necessity! | Many-to-many relationships, Ruby, ActiveRecord, SQL, Postgres, Sinatra, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations |
+
 * Baby Got Track Shoe Store
   * View Project:https://powerful-oasis-47226.herokuapp.com/
   * Repository: https://github.com/akane0915/shoe-store
