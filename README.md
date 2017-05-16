@@ -10,16 +10,11 @@ This README is intended to direct viewers of my Github profile to the repositori
 
 ## My Top Repositories
 
-|     Project     |  View Project  |  View Respository  |  Description  |  Tools Used  |
-|:----------:|:--------:|:--------:|:--------:|:--------:|
-|Baby Got Track Shoe Store| https://powerful-oasis-47226.herokuapp.com/ | https://github.com/akane0915/shoe-store | A web application for a shoe company to to track its shoe brands and the stores at which each brand is sold.  Living in a city that is home to Nike and Adidas, this application seems like a necessity! | Many-to-many relationships, Ruby, ActiveRecord, SQL, Postgres, Sinatra, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations |
-|Plenty of Ingredients| https://akane0915.github.io/plenty-of-ingredients/ | https://github.com/akane0915/plenty-of-ingredients | I LOVE food blogs.  This application allows a user to select ingredients they have on hand and returns recipes that include those ingredients. This app will reduce food waste and helps the user to save money by limiting the amount of ingredients they need to purchase! | JavaScript, jQuery, HTML, CSS, Bootstrap, Font Awesome |
-
-* Baby Got Track Shoe Store
-  * View Project:https://powerful-oasis-47226.herokuapp.com/
-  * Repository: https://github.com/akane0915/shoe-store
-  * Description: A web application for a shoe company to to track its shoe brands and the stores at which each brand is sold.  Living in a city that is home to Nike and Adidas, this application seems like a necessity!
-  * Tools: Many-to-many relationships, Ruby, ActiveRecord, SQL, Postgres, Sinatra, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations
+* ### Baby Got Track Shoe Store
+  * _View Project:_ https://powerful-oasis-47226.herokuapp.com/
+  * _Repository:_ https://github.com/akane0915/shoe-store
+  * _Description:_ A web application for a shoe company to to track its shoe brands and the stores at which each brand is sold.  Living in a city that is home to Nike and Adidas, this application seems like a necessity!
+  * _Tools:_ Many-to-many relationships, Ruby, ActiveRecord, SQL, Postgres, Sinatra, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations
 
 * Plenty of Ingredients
   * View Project: https://akane0915.github.io/plenty-of-ingredients/
