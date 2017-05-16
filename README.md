@@ -10,6 +10,24 @@ This README is intended to direct viewers of my Github profile to the repositori
 
 ## My Top Repositories
 
+* ### Career Quest Application
+  * **View Project:**  TBD
+  * **Repository:**  https://github.com/spenceralan/career_quest
+  * **Description:**  We created this web application to help us stay organized during our quest to land a job!  There are so many amazing tech companies out there in Portland.  This application is a one stop shop for everything related to the job hunt.  Use it to stay organized throughout your job search.
+  * **Tools:**  Ruby, ActiveRecord, Sinatra, Password Authentication, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations
+
+* ### PDX Women Who Code Website
+  * **View Project:**  More to come...
+  * **Repository:**  http://wwcodeportland.github.io
+  * **Description:**  As an active member of PDX Women Who Code Organization, I am helping to create the PDX WWC Website!  My contribution is focused on the development phase of the project.  
+  * **Tools:**  TBD
+
+* ### Tom Kane's Artwork Website
+  * **View Project:**  More to come...
+  * **Repository:**  TBD
+  * **Description:**  Tom Kane is an artist in Portland.  This is a site we designed and built to help him sell his art pieces online!
+  * **Tools:**  TBD
+
 * ### Baby Got Track Shoe Store
   * **View Project:**  https://powerful-oasis-47226.herokuapp.com/
   * **Repository:**  https://github.com/akane0915/shoe-store
