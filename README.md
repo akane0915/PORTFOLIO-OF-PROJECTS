@@ -28,6 +28,12 @@ This README is intended to direct viewers of my Github profile to the repositori
   * **Description:**  Tom Kane is an artist in Portland.  This is a site we designed and built to help him sell his art pieces online!
   * **Tools:**  TBD
 
+  * ### Spot a Doc - Doctor Search
+    * **View Project:**  TBD
+    * **Repository:**  https://github.com/akane0915/doctor-search
+    * **Description:**  When you're sick, the last thing you want to do is spend time finding a doctor.  This application makes that process simple and fast.  It allows you to search for a doctor by medical symptom or specialty and incorporates the Better Doctor API https://developer.betterdoctor.com/.
+    * **Tools:**  JavaScript, Node, Bower, AJAX, API integration (JSON), jQuery, SASS, Bootstrap, HTML
+
 * ### Baby Got Track Shoe Store
   * **View Project:**  https://powerful-oasis-47226.herokuapp.com/
   * **Repository:**  https://github.com/akane0915/shoe-store
