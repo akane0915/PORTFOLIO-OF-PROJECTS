@@ -12,7 +12,7 @@ This README is intended to direct viewers of my Github profile to the repositori
 
 * ### Ruby - "Career Quest" - Job Search Organizer
   * **Repository:**  https://github.com/akane0915/career-quest
-  * **Description:**  We created this web application to help us stay organized during our quest to land a job!  There are so many amazing tech companies out there in Portland.  This application is a one stop shop for everything related to the job hunt.  Use it to stay organized throughout your job search.
+  * **Description:**  We created this web application to help us stay organized during our quest to land a job!  Track companies, correspondences, positions you've applied to, and contacts. There are so many amazing tech companies out there in Portland.  Let us help you get hired!
   * **Tools:**  Ruby, ActiveRecord, Sinatra, Password Authentication, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations
 
 * ### PDX Women Who Code Website
@@ -35,7 +35,7 @@ This README is intended to direct viewers of my Github profile to the repositori
 
 * ### Ember - "Ask It" - Q&A Board
   * **View Project:**  N/A
-  * **Repository:**  https://github.com/akane0915/doctor-search
+  * **Repository:**  https://github.com/akane0915/question-answer-board
   * **Description:**  As a developer, have you ever found yourself in a situation where you are stuck and need help? This app allows the user to submit a coding question and then allows other developers to post answers to that question!  
   * **Tools:**  Ember, Firebase, JavaScript, Node, Bower, jQuery, CSS, Bootstrap, HTML, ES6
 
