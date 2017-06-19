@@ -8,6 +8,8 @@
 
 This README is intended to direct viewers of my Github profile to the repositories that I feel display my skills the best.  Please read on and take a look!
 
+Also, check out my portfolio at AsiaKane.com.  
+
 ## My Top Repositories
 
 * ### Ruby - "Career Quest" - Job Search Organizer
