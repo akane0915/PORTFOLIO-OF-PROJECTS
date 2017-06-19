@@ -1,14 +1,13 @@
 # _My Portfolio of Projects_
 
 #### _Hello! Please use this README to view the projects and repositories that I am most proud of._
+#### _Also, check out my portfolio at http://AsiaKane.com._
 
 #### By _**Asia Kane**_
 
 ## Description
 
 This README is intended to direct viewers of my Github profile to the repositories that I feel display my skills the best.  Please read on and take a look!
-
-Also, check out my portfolio at AsiaKane.com.  
 
 ## My Top Repositories
 
