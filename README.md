@@ -29,13 +29,13 @@ This README is intended to direct viewers of my Github profile to the repositori
   * **Tools:**  Ruby on Rails, JavaScript, AngularJS, HTML, CSS
 
 * ### Angular - "Pure Barre Portland Manager" - Management Application
-  * **View Project:**  TBD
+  * **View Project:**  https://pure-barre-manager.firebaseapp.com/
   * **Repository:**  https://github.com/akane0915/pure-barre-manager
   * **Description:**  I work as a Barre Fitness Instructor at the Pure Barre Portland Studio (http://purebarre.com/).  This application was built to help my Pure Barre manager keep track of employees to ensure we're running a successful business!
   * **Tools:**  Angular, Angular CLI, TypeScript, Firebase, JavaScript, Node, Bower, jQuery, CSS, Bootstrap, HTML, ES6
 
 * ### Ember - "Ask It" - Q&A Board
-  * **View Project:**  N/A
+  * **View Project:** https://ask-it-48678.firebaseapp.com/
   * **Repository:**  https://github.com/akane0915/question-answer-board
   * **Description:**  As a developer, have you ever found yourself in a situation where you are stuck and need help? This app allows the user to submit a coding question and then allows other developers to post answers to that question!  
   * **Tools:**  Ember, Firebase, JavaScript, Node, Bower, jQuery, CSS, Bootstrap, HTML, ES6
