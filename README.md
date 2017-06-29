@@ -12,6 +12,7 @@ This README is intended to direct viewers of my Github profile to the repositori
 ## My Top Repositories
 
 * ### Ruby - "Career Quest" - Job Search Organizer
+  * **View Project:**  https://career-quest.herokuapp.com/
   * **Repository:**  https://github.com/akane0915/career-quest
   * **Description:**  We created this web application to help us stay organized during our quest to land a job!  Track companies, correspondences, positions you've applied to, and contacts. There are so many amazing tech companies out there in Portland.  Let us help you get hired!
   * **Tools:**  Ruby, ActiveRecord, Sinatra, Password Authentication, Unit and Integration Testing, Should-Matchers Gem, Callbacks, Validations
