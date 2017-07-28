@@ -9,7 +9,30 @@
 * _LinkedIn: https://www.linkedin.com/in/asiakane/_
 * _Email: asialkane@gmail.com_
 
-#### By _**Asia Kane**_
+## Languages, Skills, and Tools
+
+* Ruby
+* Rails
+* Javascript
+* React
+* AngularJS
+* EmberJS
+* AJAX
+* Sinatra
+* Active Record
+* jQuery
+* SQL
+* Postgres
+* HTML
+* SCSS
+* Bootstrap
+* ES6
+* Git
+* Github
+* AWS S3
+* Trello
+* JIRA
+* Agile/SCRUM
 
 ## Description
 
@@ -81,28 +104,3 @@ This README is intended to direct viewers of my Github profile to the repositori
   * **Repository:** https://github.com/akane0915/ruby-recipe-box-has-and-belongs-to-many
   * **Description:** I love to cook! Here is a project to track my recipes, ingredients, and tags.
   * **Tools:** Many-to-many relationships, Ruby, ActiveRecord, Rake Gem, SQL,  Postgres, Sinatra, Unit and Integration Testing, Should-Matchers Gem
-
-## Languages, Skills, and Tools
-
-* Ruby
-* Rails
-* Javascript
-* React
-* AngularJS
-* EmberJS
-* AJAX
-* Sinatra
-* Active Record
-* jQuery
-* SQL
-* Postgres
-* HTML
-* SCSS
-* Bootstrap
-* ES6
-* Git
-* Github
-* AWS S3
-* Trello
-* JIRA
-* Agile/SCRUM
