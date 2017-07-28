@@ -1,7 +1,13 @@
 # _My Portfolio of Projects_
 
 #### _Hello! Please use this README to view the projects and repositories that I am most proud of._
-#### _Also, check out my portfolio at http://AsiaKane.com._
+
+## Contact Details
+
+* _Website: http://asiakane.com_
+* _Github: https://github.com/akane0915/_
+* _LinkedIn: https://www.linkedin.com/in/asiakane/_
+* _Email: asialkane@gmail.com_
 
 #### By _**Asia Kane**_
 
@@ -100,10 +106,3 @@ This README is intended to direct viewers of my Github profile to the repositori
 * Trello
 * JIRA
 * Agile/SCRUM
-
-## Contact Details
-
-* _Website: http://asiakane.com_
-* _Github: https://github.com/akane0915/_
-* _LinkedIn: https://www.linkedin.com/in/asiakane/_
-* _Email: asialkane@gmail.com_
