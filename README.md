@@ -41,7 +41,7 @@ This README is intended to direct viewers of my Github profile to the repositori
 ## My Top Repositories
 
 * ### Rails and JavaScript - "Tom Kane's Art Website"
-  * **View Project:**  https://tom-kane-art.herokuapp.com/ (will be deployed to https://tomkaneart.com August 2017)
+  * **View Project:**  http://www.tomkaneart.com
   * **Repository:**  https://github.com/akane0915/tom-kane-art-website
   * **Description:**  Tom Kane is an artist in Portland.  This is a site we designed and built using Ruby on Rails and JS to help him sell his art pieces online!  This is a fully functional, live website.
   * **Tools:**  Ruby on Rails, JavaScript, HTML, CSS
